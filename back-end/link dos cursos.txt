@@ -2,9 +2,6 @@ LÓGICA
 {
 https://mooc.ifro.edu.br/course/logicadeprogramacao/lesson/aula-1-introducao-a-programacao-de-computadores
 https://www.ev.org.br/cursos/introducao-a-programacao-orientada-a-objetos-poo
-inglês 
-https://www.udemy.com/course/o-curso-completo-de-ingles-iniciante/
-https://www.udemy.com/course/mini-curso-de-ingles-gratuito/
 }
 
 
