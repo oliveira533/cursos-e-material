@@ -3,16 +3,16 @@
 
 <li>
 <h2>
-C# Básico - Fundação Bradesco 
+PHP Atual modulo 1 - Curso em video 
 </h2>
-Curso com aulas e material extra. Essa é o <a href="https://www.ev.org.br/cursos/linguagem-de-programacao-c-basico">link</a> do curso.
+Um curso utilizando novas praticas do PHP. Essa é a <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_">playlist</a> do curso.
 </li>
   
 <li>
 <h2>
-C# Avançado - Fundação Bradesco 
+Curso de POO(programação orientada a objetos) com PHP - Curso em video 
 </h2>
-Curso com aulas e material extra. Essa é o <a href="https://www.ev.org.br/cursos/linguagem-de-programacao-c-avancado">link</a> do curso.
+Um curso um pouco antigo mas que tem como principal foco POO. Essa é a <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x">link</a> do curso.
 </li>
 
 </ul>
