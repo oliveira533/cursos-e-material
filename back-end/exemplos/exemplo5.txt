@@ -1,9 +1,0 @@
-algoritmo exemplo5
-variavel
-inteiro nValor;
-nDobro = nValor * 2;
-nTriplo = nValor * 3;
-inicio 
-escreva "insira um número inteiro: "
-receba nValor
-escreva "o dobro é" nDobro + "o triplo é" + nTriplo;

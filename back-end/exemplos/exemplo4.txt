@@ -1,9 +1,0 @@
-algoritmo exemplo4
-variavel
-inteiro: nValor = 0;
-nInverso = nValor * (-1);
-inicio
-escreva "insira um valor inteiro: ";
-receba nValor
-escreva nInverso;
-fim

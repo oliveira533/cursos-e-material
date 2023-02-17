@@ -1,8 +1,0 @@
-algoritmo exemlpo14
-varivael: nValor, nConverte real;
-inicio
-escreva "digite a temperatua: ";
-receba nValor;
-nConverte = (nValor - 32) * (5 / 9);
-escreva nConverte;
-fim

@@ -1,9 +1,0 @@
-algoritmo exemplo18
-Variavel: nLado1, nLado2, nArea;
-inicio
-escreva "informe um dos lados do retangulo: "
-receba nLado1;
-escreva "informe outro lado(adjacente) do retangulo: ";
-receba nLado2;
-nArea = nLado1 * nLado2;
-fim

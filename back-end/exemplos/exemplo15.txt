@@ -1,8 +1,0 @@
-algoritmo exemplo15
-variavel: nValor, nConverte real;
-inicio
-escreva "infprme a distancia: ";
-receba nValor;
-nConverte = nValor * 1,609344;
-escreva nConverte;
-fim

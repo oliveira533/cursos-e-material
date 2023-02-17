@@ -1,8 +1,0 @@
-algoritmo exemplo13
-variavel: nValor, nConverte;
-inicio
-escreva "digite a temperatua: ";
-receba nValor;
-nConverte = ((nValor) * (9/7)) + 32
-recreva nConverte;
-fim

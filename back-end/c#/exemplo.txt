@@ -1,9 +1,0 @@
-Algoritmo ExibeValor
-Var
-nValor: inteiro
-Inicio 
-faça
-    Escreva "Digite um valor"
-    Receba nValor
-enquanto (nValor 0)
-fim

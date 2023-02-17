@@ -1,4 +1,0 @@
-nValor = float(input("Digite a distancia: "))
-cConvercm = nValor * 100
-cConvermm = nValor * 1000
-print("\n{2} em cm é: {0}cm\n{2} em mm é: {1}mm".format(int(cConvercm), int(cConvermm), nValor))

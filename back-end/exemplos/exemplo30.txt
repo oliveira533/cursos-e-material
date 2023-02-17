@@ -1,9 +1,0 @@
-algoritmo exemplo29
-variavel: nCarros int;
-nTotal real;
-inicio
-escreva "Informe quantos carros passaram pno fim de semana: ";
-receba nCarro;
-nTotal = 27,40 * nCarros;
-escreva "O faturamento total é de " nTotal;
-fim

@@ -1,4 +1,0 @@
-nValor = int(input("Digite um valor: "))
-nAnt = nValor - 1
-nSuc = nValor + 1
-print("\n O valor é: {0} \n O Antecessor é: {1} \n O Sucessro é: {2}".format(nValor, nAnt, nSuc))
