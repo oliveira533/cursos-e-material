@@ -34,11 +34,7 @@ Front-end
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de front-end.
 </li>
 
-Front-end
-</h2>
-Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de front-end.
-</li>
-
+<h2>
 Mobile
 </h2>
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de desenvolvimento mobile, muitas deles podem ser utilizadas para back-end de sites.
