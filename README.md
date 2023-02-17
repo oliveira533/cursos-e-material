@@ -41,4 +41,25 @@ Mobile
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de desenvolvimento mobile, muitas deles podem ser utilizadas para back-end de sites.
 </li>
 
+<li>
+<h2>
+Análise de sistemas
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/analise%20de%20sitemas">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a parte de análise de sistemas.
+</li>
+
+<li>
+<h2>
+Linux
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/linux">Link</a> você vai ter acesso a diversas apostilas e cursos sobre linux, o sistema operacinal mais utilizado por programadores.
+</li>
+  
+<li>
+<h2>
+Arduino
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/arduino">Link</a> você vai ter acesso a diversas apostilas, cursos e ambiente de teste para o arduino.
+</li>
+
 </ul>
