@@ -34,6 +34,7 @@ Front-end
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de front-end.
 </li>
 
+<li>
 <h2>
 Mobile
 </h2>
