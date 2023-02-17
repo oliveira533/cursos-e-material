@@ -62,4 +62,11 @@ Arduino
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/arduino">Link</a> você vai ter acesso a diversas apostilas, cursos e ambiente de teste para o arduino.
 </li>
 
+<li>
+<h2>
+Hardware
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/Hardware">Link</a> você vai ter acesso a diversas apostilas e cursos sobre o básico de hardware.
+</li>  
+  
 </ul>
