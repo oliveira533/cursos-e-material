@@ -3,16 +3,23 @@
 
 <li>
 <h2>
-PHP Atual modulo 1 - Curso em video 
+Curso de Python Módulo 1 - Curso em video 
 </h2>
-Um curso utilizando novas praticas do PHP. Essa é a <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_">playlist</a> do curso.
+Um curso de python muito didático. Essa é a <a href="https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6">playlist</a> do curso.
 </li>
   
 <li>
 <h2>
-Curso de POO(programação orientada a objetos) com PHP - Curso em video 
+Curso de Python Módulo 2 - Curso em video 
 </h2>
-Um curso um pouco antigo mas que tem como principal foco POO. Essa é a <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x">link</a> do curso.
+Um curso de python muito didático. Essa é a <a href="https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye">playlist</a> do curso.
+</li>
+
+<li>
+<h2>
+Curso de Python Módulo 3 - Curso em video 
+</h2>
+Um curso de python muito didático. Essa é a <a href="https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH">playlist</a> do curso.
 </li>
 
 </ul>
