@@ -5,22 +5,43 @@
 ### Essa lista ainda não está completa, vai passar por algumas alterações mas a base da lista é essa
 
 <ul>
+
 <li>
 <h2>
 Lógica
 </h2>
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/Lógica">Link</a> você vai ter acesso as apostilas e cursos relacionados a lógica de programação, lógica básica e POO(programação orienta a objeto).
 </li>
+
 <li>
 <h2>
 Banco de dados
 </h2>
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/Banco%20de%20dados">Link</a> você vai ter acesso as apostilas e cursos relacionados a Banco de Dados, Mais especificamente MySQL.
 </li>
+
 <li>
 <h2>
 Back-end
 </h2>
 Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/back-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de back-end ou comumente chamadas delinguagem de servidor.
 </li>
+
+<li>
+<h2>
+Front-end
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de front-end.
+</li>
+
+Front-end
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de front-end.
+</li>
+
+Mobile
+</h2>
+Clicando nesse <a href="https://github.com/oliveira533/cursos-e-material/tree/main/front-end">Link</a> você vai ter acesso a diversas apostilas e cursos relacionados a linguagens de desenvolvimento mobile, muitas deles podem ser utilizadas para back-end de sites.
+</li>
+
 </ul>
