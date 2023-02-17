@@ -1,0 +1,11 @@
+algoritmo exemplo34
+variavel
+nValor;
+nPorcen;
+nConta;
+escreva "Informe o valor";
+receba nValor;
+nPorcen = 15/100;
+nConta = nValor + nPorcen;
+escreva "O valor a ser vendido será " nConta;
+fim

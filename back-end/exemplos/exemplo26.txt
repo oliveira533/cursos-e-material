@@ -1,0 +1,12 @@
+algoritmo exemplo26
+variavel: nValor real;
+nAntigo real;
+nAtual real;
+inicio 
+escreva "Insira o valor de biticoin comprado: ";
+receba nValor;
+nAntigo = nValor * 1,91;
+nAtual = nValor * 202470,49;
+escreva "No valor antigo você teria comprado: " nAntigo;
+escreva "No valor atual você teria comprado: " nAtual;
+fim

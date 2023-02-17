@@ -1,0 +1,17 @@
+algoritmo exemplo22
+variavel: nValor real;
+nCota real;
+nQuant real;
+nConta;
+incio
+escreva "Informe o valor do produto: ";
+receba nValor;
+escreva "Informe a quantidade comprada: ";
+receba nQuant;
+escreva "Informe a contação do dolar: ";
+receba nCota;
+nConta = nValor * nCota;
+escreva "O valor do produto em reais é: " nConta;
+nConta = (nValor * nQuant) * (nCota);
+escreva "O valor total gasto é: " nConta;
+fim

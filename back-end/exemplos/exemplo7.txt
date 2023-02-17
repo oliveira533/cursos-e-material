@@ -1,0 +1,7 @@
+algoritmo exemplo6
+variavel
+inteiro: nValor, nMetade inteiro;
+inicio
+escreva "insira um valor"
+nMetade = nValor / 2;
+escreva "a metade é " + nMetade;

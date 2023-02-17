@@ -1,0 +1,24 @@
+algoritmo vetor1
+vetor: vValor, nAux, nNumVetor, nEscolhe inteiro;
+inicio
+enquanto nAux < 54 faça
+esvreva "informe um valor:";
+receba vValor (nNumVetor);
+nNumVetor++;
+mAux++
+fim enquanto
+escreva "Ver pares(1), ver impares(2), ver positivos(3), ver negativo(4) ";
+receba nEscolhe;
+Se nEscolhe == 1
+escreva vValor que ((vValor / 2) * 2 == 0);
+FimSe
+Se nEscolhe == 2
+escreva vValor que ((vValor / 2) * <> vValor);
+FimSe
+Se nEscolhe == 3 
+escreva vValor que (vValor > 0);
+FimSe
+Se nEscolhe == 4
+escrevavValor que (vValor < 0);
+FimSe
+fim

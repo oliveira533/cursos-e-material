@@ -1,0 +1,14 @@
+algoritmo exemplo21
+variavel: nGasto, nCotGasto, nContAgr, nDiferenca, nPago real;
+inicio
+escreva "informe quanto você gastou: "
+receba nGasto;
+escreva "informe o valor da cotação  no dia que foi gasto: ";
+receba nCotGasto;
+escreva "informe o valor da cotação agora: "
+receba nCotAgr
+nDiferença = (nCotAgr - nCotGasto) / nCotAgr;
+nPago = nGasto / nCotAgr;
+escreva "O valor gasto foi ", nGasto;
+escreva "A diferença é ", nDifereca;
+escreva "O valor a ser pago é ", nPago

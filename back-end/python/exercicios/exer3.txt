@@ -1,0 +1,9 @@
+nNota1 = float(input("Nota do primeiro bimestre: "))
+nNota2 = float(input("Nota do Segundo bimestre: "))
+cMedia = (nNota1 + nNota2)  / 2
+
+
+if (cMedia < 5):
+    print("\nA média é: {} \n Aluno reprovado".format(cMedia))
+else:
+    print("\nA Média do aluno é  {} \n Aluno aprovado".format(cMedia))

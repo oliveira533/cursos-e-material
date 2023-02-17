@@ -1,0 +1,8 @@
+algotitmo exemplo16
+variavel: nValor, nConverte real;
+inicio
+escreva "informe a distancia: ";
+receba = nValor;
+nConverte = nValor / 1,609344;
+escreva nConverte;
+fim

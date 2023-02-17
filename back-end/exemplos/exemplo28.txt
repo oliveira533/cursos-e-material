@@ -1,0 +1,15 @@
+Algoritmo exemplo28
+variavel: nPreco real;
+nAuto real;
+nDistancia real; 
+nConta;
+inicio 
+escreva "Insira o preço por litro do combustível: ";
+Receba nPreco;
+Escreva "Insira a autonomia do seu carro: ";
+Receba nAuto;
+Escreve "Insira a distância: "
+Receba nDistancia;
+nConta = (nDistancia / nAuto) * nPreco
+Escreva "você irá gastar: " nConta;
+Fim

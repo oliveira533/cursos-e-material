@@ -1,0 +1,10 @@
+algoritmo exemplo3
+variavel
+inteiro: nValor1 = 0,
+nAnt = nValor1 - 1,
+nSus = nValor + 1;
+incio
+escreva "Digite um número inteiro: ";
+receba nValor1;
+escreva "o antecessor é: " + nAnt + "o sucessor é: " + nSus;
+fim

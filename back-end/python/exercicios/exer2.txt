@@ -1,0 +1,5 @@
+nValor = int(input("Digite um numero: "))
+cTriplo = nValor * 3
+cDobro = nValor * 2
+cRaiz = nValor ** (1/2)
+print("\n O valor é: {0} \n O dobro de {0} é: {1} \n O Triplo de {0} é: {2} \n A raiz quadrada de {0} é: {3}".format(nValor, cDobro, cTriplo, cRaiz))

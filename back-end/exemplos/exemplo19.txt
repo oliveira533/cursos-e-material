@@ -1,0 +1,10 @@
+algoritmo exemplo19
+variavel: nPeso, nAltura, nIMC real;
+inicio
+escreva "informe a altura: ";
+receba nAltura;
+escreva "informe o peso: ";
+receba nAltura;
+nIMC = nPeso / (nAltura * nAltura);
+escreva nIMC;
+fim

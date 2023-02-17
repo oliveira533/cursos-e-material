@@ -1,0 +1,14 @@
+algoritmo exeplo32
+variavel
+nValor real;
+nMont = 45/100;
+nCon = 15/100;
+nConta real;
+inicio 
+escreva "Informe o valor do carro";
+receba nValor;
+nConta = nValor - nMont;
+escreva "O custo de produção é " nConta;
+nConta = nVaor - nCon;
+escreva "O lucro da consecionária é " nConta;
+fim

@@ -1,0 +1,10 @@
+algoritmo exemplo20
+variavel: nCotacao, nValor, nConverte real;
+inicio 
+escreva "informe a cotação do dólar: ";
+receba nCotacao;
+escreva "informe o valor a ser convertido";
+receba nValor;
+nConverte = nValor * nCotacao;
+escreva nConverte;
+fim

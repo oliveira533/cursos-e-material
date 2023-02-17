@@ -1,0 +1,9 @@
+algoritmo exemplo 31
+variavel: nEixos int;
+nTotal real;
+inicio 
+escreva "Insira a quantidades de eixos que se tem no caminhão: ";
+receba nEixos;
+nTotal = nEixos * 3,40;
+escreva "O valor que a ser pago será " nTotal;
+fim

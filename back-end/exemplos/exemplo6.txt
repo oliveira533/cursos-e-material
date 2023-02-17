@@ -1,0 +1,7 @@
+algoritmo exemplo6
+variavel
+inteiro: nValor inteiro;
+inicio
+escreva "insira um número inteiro";
+receba nValor;
+escreva "o cubo é: " + (nValor * nValor);

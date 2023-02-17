@@ -1,0 +1,10 @@
+algoritmo exemplo17
+variavel: nLado, nComp, nPeri real;
+inicio
+escreva "informe a largura do retângulo: ";
+receba nLado;
+escreva "informe o comprimento do retângulo: ";
+receba nComp;
+nPeri = (nLado * 2) + (nComp * 2);
+escreva nPeri;
+fim

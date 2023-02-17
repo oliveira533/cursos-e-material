@@ -1,0 +1,15 @@
+algoritmo exemplo35
+variavel
+nSalario real;
+nFatu real;
+nConta real;
+nPorcen real;
+inicio
+escreva "Informe o salário do gerente: ";
+receba nSalaraio;
+escreva "Informe o faturamento anual da loja: ";
+receba nFatu;
+nPorcen = 2 / 100;
+nConta = nSalario + (nFatu * nPorcen)
+escreva "O salário será " nConta;
+fim

@@ -1,0 +1,21 @@
+algoritmo23
+variavel: nAltura real;
+nLargura real;
+nProfun real;
+nConver1 real;
+nConver2 real;
+nConver3 real;
+nConta real;
+inicio
+escreva "Insira a altura da caixa d'água: ";
+receba nAltura;
+escreva "Insira a largura da caixa d'água: ";
+receba nLargura;
+escreva "Insira a profundidade da caixa d'água: ";
+receba nLargura
+nConver1 = nAltura / 1000;
+nConver2 = nLargura / 1000;
+nConver3 = nProfun / 1000;
+nConta = nConver1 * nConver2 * nConver3;
+escreva "A capacidade aproximada da caiza é: " nConta;
+fim

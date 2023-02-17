@@ -1,0 +1,12 @@
+algoritmo exemplo8
+variavel
+inteiro: nValor1, nValor2, nTroca;
+inicio
+escreva "insira um valor: ";
+receba nValor1;
+nTroca = nValor1;
+escreva "insira outro valor: ";
+receba nValor2;
+nValor1 = nValor2;
+nValor2 = nTroca:
+escreva nValor1, nValor2

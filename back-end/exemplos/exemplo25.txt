@@ -1,0 +1,19 @@
+algoritmo exemplo25
+variavel: nDolar real;
+nEuro real;
+nReal real;
+nConver real;
+inicio
+escreva "Informe quantos euros você tem: ";
+receba nEuro;
+escreva "Informe quantos dólares você tem: ";
+receba nDolar;
+escreva "Informa quantos reais você tem: ";
+receba nReal;
+nConver = (nReal * 5,31) + (nEuro / 1,22) + nDolar;
+escreva "Você em dólar tem no total: " nConver;
+nConver = (nEuro * 6,47) + (nDolar / 5,31) + nReal;
+escreva "Você em real tem no total: " nConver;
+nConver = (nReal * 6,47) + (nDolar * 1,22) + nEuro;
+escreva "Você em euro tem no total: " nConver;
+fim

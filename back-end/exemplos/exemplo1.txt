@@ -1,0 +1,4 @@
+Algoritmo exemplo1
+inicio
+Escrever "Exemplo de código sequencial";
+fim
